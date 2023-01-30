@@ -13,7 +13,8 @@ Here are our protocols :
 - Protocol B: High intensity activity. Change in ambient temperature.
 - Protocol C: Real-life working day, with working sessions in sitting and standing positions. Food intake. 
 
-![Alt text](FIGURES/models.jpg?raw=true "Title")
+
+![Image](../FIGURES/models.jpg)
 
 
 ### Results 
