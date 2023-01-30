@@ -7,7 +7,13 @@ Human energy expenditure is a combination of static and dynamic components, the 
 
 ### Methodology
 
-Here are our protocols 
+Here are our protocols :
+
+- Protocol A: Low activity activity. Change in ambient temperature.
+- Protocol B: High intensity activity. Change in ambient temperature.
+- Protocol C: Real-life working day, with working sessions in sitting and standing positions. Food intake. 
+
+![Alt text](FIGURES/models.jpg?raw=true "Title")
 
 
 ### Results 
