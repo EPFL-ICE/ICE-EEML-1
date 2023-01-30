@@ -1,4 +1,7 @@
 # ICE-EEML-1
+[![DOI](https://zenodo.org/badge/595111119.svg)](https://zenodo.org/badge/latestdoi/595111119)
+
+
 ### Human Energy Expenditure Prediction Models Using LSTM Networks
 
 
